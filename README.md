@@ -2,7 +2,7 @@
 
 ### About
 
-This application was created for the TomTom Global Hackathon. Our team with name "Connected", consisted of Ferry Ras, Carlo Wesseling, Carien Caljouw and Quentin Beukelman. For this challenge we won the first prize.
+This application was created for the TomTom Global Hackathon. Our team with name "Connected", consisted of Ferry Ras, Carlo Wesseling, Carien Caljouw and Quentin Beukelman. For this challenge we won the hacker-level first prize (€2500,-) [- certificate](https://github.com/f-ras/TomTom-Hackathon-2022/blob/master/Certificate%20Hacker%20Level%20Prize%20Ferry%20Ras.pdf).
 
 > **How can TomTom better connect navigation with the user’s digital life?**
 > We often need to (safely) use our phones on the go. In this challenge, you’ll find ways of connecting some of the most regularly used apps with a car’s navigation system.
